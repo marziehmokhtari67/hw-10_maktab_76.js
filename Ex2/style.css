@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.bg-primary{
+    width:12%;
+    
+}
+.bg-primary i{
+    font-size: 1.5rem;
+    color: white;
+}
+.get-started:hover , .learn:hover{
+    background-color: blue;
+}
+
+.text{
+    font-size:0.875rem;
+    width: 80%;
+}
+ul{
+    list-style-type:none;
+}
+.text-free{
+    font-size: 0.875rem;
+}
+.border{
+    width:40%;
+    font-size: 0.875rem;
+}
+.btn:hover{
+    background-color: blue;
+    color: white !important;
+}
+.input{
+    width:40%;
+}
+.input .massage {
+    height:30%;
+}
+.envelop{
+    width:4%;
+    height:5%;
+}
+footer{
+    font-size: 0.875rem;
+}
+.btn{
+    width:80%;
+    
+}
+.col-12{
+    width:23%;
+}
